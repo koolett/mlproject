@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 # 1. Load Data into a Pandas DataFrame
 data = {
     'Square_Feet': [
-        750,
+        650,
         800,
         850,
         900,
